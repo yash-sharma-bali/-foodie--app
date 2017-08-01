@@ -36,7 +36,7 @@ foodieApp.controller('restaurantController',function($scope,$routeParams,$http) 
 		image: 'https://b.zmtcdn.com/data/pictures/chains/2/308022/dabd30bd0b000ea859ada9a08a0132fc.jpg'
 	},
 	{
-		name: 'Shawarma House',
+		name: ' Dinkar cafe',
 		address: '2, Central Plaza Mall, Golf Course Road, Gurgaon',
 		location: 'Gurgaon',
 		category: 'Quick bites',
@@ -48,7 +48,7 @@ foodieApp.controller('restaurantController',function($scope,$routeParams,$http) 
 		image: 'http://assets.limetray.com/assets/image_manager/uploads/1833/shawarma-house-img11.jpg'
 	},
 		{
-		name: 'The CAfe',
+		name: ' CAfe Nomad',
 		address: 'B8/9, Shop 9, DDA Market, Near GD Goenka School, Vasant Kunj, New Delhi',
 		location: 'New Delhi',
 		category: 'Café',
@@ -204,7 +204,7 @@ foodieApp.controller('mainController',function($scope) {
 		image: 'https://b.zmtcdn.com/data/pictures/chains/2/308022/dabd30bd0b000ea859ada9a08a0132fc.jpg'
 	},
 	{
-		name: 'Shawarma House',
+		name: 'Dinkar cafe',
 		address: '2, Central Plaza Mall, Golf Course Road, Gurgaon',
 		location: 'Gurgaon',
 		category: 'Quick bites',
@@ -216,7 +216,7 @@ foodieApp.controller('mainController',function($scope) {
 		image: 'http://assets.limetray.com/assets/image_manager/uploads/1833/shawarma-house-img11.jpg'
 	},
 		{
-		name: 'The CAfe',
+		name: 'CAfe Nomad',
 		address: 'B8/9, Shop 9, DDA Market, Near GD Goenka School, Vasant Kunj, New Delhi',
 		location: 'New Delhi',
 		category: 'Café',
